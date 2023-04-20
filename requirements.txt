@@ -1,0 +1,4 @@
+numpy==1.22.0
+pandas==1.5.2
+plotly==5.5.0
+tqdm==4.64.1
